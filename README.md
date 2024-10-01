@@ -16,7 +16,7 @@ Como Executar
 Clone o repositório:
 bash
 Copiar código
-git clone https://github.com/gabriel9908/sistema-estoque.git
+git clone https://github.com/gabriel9908/SistemaControladorDeEstoque
 Navegue até o diretório do projeto.
 Compile e execute a aplicação usando um ambiente Java configurado.
 Contribuições
