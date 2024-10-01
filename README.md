@@ -22,4 +22,4 @@ O **Sistema de Estoque** é uma aplicação desenvolvida em Java utilizando a bi
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/gabriel9908/sistema-estoque.git
+   git clone https://github.com/gabriel9908/SistemaControladorDeEstoque
